@@ -1,0 +1,14 @@
+# Node.js dependencies
+Backend/node_modules
+Backend/.env
+
+# React Native dependencies
+app/node_modules
+app/.env
+app/.gradle
+ios/Pods
+
+# Logs
+*.log
+ 
+.vercel
